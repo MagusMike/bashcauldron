@@ -1,0 +1,4 @@
+# ignore file to be modified
+
+# ignore all .a files - such as archives, etc
+*.a
